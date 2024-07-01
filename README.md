@@ -11,7 +11,7 @@ https://hackmd.io/@0xsequence/rJu7LHxDR
 
 In this repository, I have created a very simple set of scripts to pull data, transform it and normalize it using BigQuery.
 
-**Please note:** This is a very simple example of how to complete this challenge and it is sparse due to my goal to limit the challenge to only a couple of hours of work. Please see the "What I Would Do With More Time" section that details what I would do if I decided to spend more time improving this project. I would actually prefer to do what's noted in that section before submitting but I simply do not have the time at the moment. My sincere apologies.
+**Please note:** This is a very simple example of how to complete this challenge and it is sparse due to my goal to limit the challenge to only a couple of hours of work. Please see the "What I Would Do With More Time" section that details what I would do if I had more time to improve this project.
 
 ---
 
