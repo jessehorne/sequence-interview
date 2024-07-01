@@ -32,7 +32,7 @@ timestamp (datetime), event (string), project_id (integer), value(integer)
 
 day (date), project_id (integer), total_transactions (integer), volume (integer)
 
-5. A proper .env file (see .env.example for recreating it)
+5. A proper .env file (see .env.example for recreating it) and `creds.json` file.
 
 # Running
 
